@@ -1,6 +1,6 @@
 ---
-name: Joinin
-about: To be a member of OpenLab
+name: Join in OpenLab
+about: To be a member of OpenLab.
 
 ---
 

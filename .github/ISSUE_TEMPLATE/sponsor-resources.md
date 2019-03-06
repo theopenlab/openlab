@@ -1,6 +1,9 @@
 ---
 name: Sponsor Resources
 about: Donate resources to OpenLab.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

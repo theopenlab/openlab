@@ -1,6 +1,9 @@
 ---
 name: Report Bug
 about: Report bug to OpenLab.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

@@ -1,10 +1,13 @@
 ---
 name: Report Bug
 about: Report bug to OpenLab.
+title: ''
+labels: bug
+assignees: ''
 
 ---
 
-Let's make things better!
+Thank you for reporting bug!
 
 ### Describe the bug
 A clear and concise description of what the bug is.

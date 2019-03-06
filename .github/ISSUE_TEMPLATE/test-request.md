@@ -1,6 +1,9 @@
 ---
 name: Test Request
 about: Submit a test request to OpenLab.
+title: ''
+labels: integration case
+assignees: hogepodge, stmcginnis
 
 ---
 

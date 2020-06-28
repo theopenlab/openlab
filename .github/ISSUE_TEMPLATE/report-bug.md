@@ -3,7 +3,7 @@ name: Report Bug
 about: Report bug to OpenLab.
 title: ''
 labels: bug
-assignees: ''
+assignees: bzhaoopenstack, liusheng, wangxiyuan
 
 ---
 

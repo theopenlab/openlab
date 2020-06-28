@@ -3,7 +3,7 @@ name: Feature Enhancement
 about: Suggest an idea for OpenLab.
 title: ''
 labels: enhancement
-assignees: ''
+assignees: bzhaoopenstack, liusheng, wangxiyuan
 
 ---
 

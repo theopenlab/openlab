@@ -3,7 +3,7 @@ name: Test Request
 about: Submit a test request to OpenLab.
 title: ''
 labels: integration case
-assignees: bzhaoopenstack
+assignees: bzhaoopenstack, liusheng, wangxiyuan
 
 ---
 

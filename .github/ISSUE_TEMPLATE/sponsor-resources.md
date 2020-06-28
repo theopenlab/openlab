@@ -3,7 +3,7 @@ name: Sponsor Resources
 about: Donate resources to OpenLab.
 title: ''
 labels: donating
-assignees: ''
+assignees: bzhaoopenstack, liusheng, wangxiyuan
 
 ---
 

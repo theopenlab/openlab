@@ -3,7 +3,7 @@ name: Join in OpenLab
 about: To be a member of OpenLab.
 title: ''
 labels: new member
-assignees: ''
+assignees: bzhaoopenstack, liusheng, wangxiyuan
 
 ---
 
